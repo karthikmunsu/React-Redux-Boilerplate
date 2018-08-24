@@ -1,0 +1,20 @@
+.animals {
+  border: 2px solid red;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.animals:hover {
+  background-color: blueviolet;
+}
+
+.wrapper {
+  text-align: center;
+}
+.btn {
+  height: 20px;
+  width: 220px;
+  color: white;
+  background-color: darkcyan;
+  cursor: pointer;
+}
